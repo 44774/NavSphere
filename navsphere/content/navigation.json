@@ -6,7 +6,16 @@
       "icon": "Cloud",
       "description": "44774ORG Cloud",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762962783443_2jzd6pr00",
+          "title": "44774ORG",
+          "href": "https://44774.org",
+          "description": "44774ORG",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=44774.org",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
