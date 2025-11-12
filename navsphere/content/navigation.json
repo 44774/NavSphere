@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1762962748063",
+      "title": "44774ORG Cloud",
+      "icon": "Cloud",
+      "description": "44774ORG Cloud",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
